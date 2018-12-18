@@ -38,20 +38,6 @@
             }
           }
         }
-      },
-      "post": {
-        "tags": [
-          "hello"
-        ],
-        "summary": "Returns SOAJS Object",
-        "responses": {
-          "200": {
-            "description": "successful operation",
-            "schema": {
-              "type": "object"
-            }
-          }
-        }
       }
     }
   }
