@@ -4,7 +4,7 @@
         "cpu": " ",
         "memory": " "
     },
-    "serviceName": "express",
+    "serviceName": "expresses",
     "serviceGroup": "Custom Services",
     "servicePort": 4381,
     "swagger": true,
