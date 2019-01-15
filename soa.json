@@ -10,7 +10,7 @@
     "swagger": true,
     "requestTimeout": 30,
     "requestTimeoutRenewal": 5,
-    "serviceVersion": 1,
+    "serviceVersion": 2,
     "extKeyRequired": true,
     "urac": true,
     "urac_Profile": false,
