@@ -24,7 +24,7 @@ app.get('/tidbit/hello', (req, res) => {
 
     //updating something in the code
     res.send({
-        "message": "Hello, I am an EXPRESS service, you are [" + username + "] and your last name is : [" + lastname + "]"
+        "message": "Hellos, I am an EXPRESS service, you are [" + username + "] and your last name is : [" + lastname + "]"
     });
 });
 
