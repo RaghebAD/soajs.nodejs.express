@@ -15,7 +15,6 @@
         "tags": [
           "hello"
         ],
-        "summary": "Hello World",
         "parameters": [
         {
           "name": "username",
