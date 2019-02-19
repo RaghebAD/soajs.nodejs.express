@@ -24,7 +24,7 @@
           "type": "string"
         },
         {
-          "name": "lastnamessd",
+          "name": "lastnames",
           "in": "query",
           "required": true,
           "type": "string"
