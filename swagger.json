@@ -24,7 +24,7 @@
           "type": "string"
         },
         {
-          "name": "lastnames",
+          "name": "lastname",
           "in": "query",
           "required": true,
           "type": "string"
