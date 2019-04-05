@@ -1,0 +1,25 @@
+{
+
+	"type": "service",
+	"prerequisites": {
+		"cpu": " ",
+		"memory": " "
+	},
+	"swagger": true,
+	"swaggerFilename": "swagger.yml",
+	"serviceName": "express",
+	"serviceGroup": "Custom Services",
+	"serviceVersion": 1,
+	"servicePort": 4381,
+	"requestTimeout": 30,
+	"requestTimeoutRenewal": 5,
+	"extKeyRequired": true,
+	"oauth": true,
+	"session": false,
+	"urac" : false,
+	"urac_Profile" : false,
+	"urac_ACL" : false,
+	"provision_ACL" : false,
+	"errors": {},
+	"schema": {}
+}
