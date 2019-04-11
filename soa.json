@@ -6,7 +6,7 @@
     },
     "serviceName": "express",
     "serviceGroup": "Custom Services",
-    "swaggerFilename": "swagger.json",
+    "swaggerFilename": "/swagger.json",
     "servicePort": 4381,
     "swagger": true,
     "requestTimeout": 30,
