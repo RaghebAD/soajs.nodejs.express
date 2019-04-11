@@ -6,7 +6,7 @@
 		"memory": " "
 	},
 	"swagger": true,
-	"swaggerFilename": "swagger.yml",
+	"swaggerFilename": "/swagger.yml",
 	"serviceName": "express",
 	"serviceGroup": "Custom Services",
 	"serviceVersion": 1,
