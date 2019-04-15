@@ -10,7 +10,7 @@
 	"serviceName": "express",
 	"serviceGroup": "Custom Services",
 	"serviceVersion": 1,
-	"servicePort": 4381,
+	"servicePort": 4382,
 	"requestTimeout": 30,
 	"requestTimeoutRenewal": 5,
 	"extKeyRequired": true,
