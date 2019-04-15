@@ -17,7 +17,7 @@
     "urac_Profile": false,
     "urac_ACL": false,
     "provision_ACL": false,
-    "oauth": true,
+    "oauth": false,
     "maintenance": {
         "port": {
             "type": "inherit"
